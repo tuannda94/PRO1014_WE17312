@@ -7,3 +7,12 @@
 // A tạo url để vào controller User
 // A tạo url để vào controller User
 // A tạo url để vào controller User
+
+
+// B tạo url sang Controller Product
+// B tạo url sang Controller Product
+// B tạo url sang Controller Product
+// B tạo url sang Controller Product
+// B tạo url sang Controller Product
+// B tạo url sang Controller Product
+
